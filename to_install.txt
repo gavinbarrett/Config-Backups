@@ -35,6 +35,17 @@ youtube-dl
 whereis
 tsc
 neofetch
+tcpdump
+tshark
+nslookup/dig
+wget
+curl
+ipcalc
+virtualenv
+pdflatex
+latex
+htop
+traceroute
 
 User Interface:
 ---------------
@@ -44,7 +55,6 @@ inkscape
 steam
 spotify
 gimp
-balena
+etcher
 postman
-pdflatex
 libreoffice
