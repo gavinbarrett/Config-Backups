@@ -4,6 +4,7 @@ arp-scan
 nc
 netcat
 ssh
+scp
 sftp
 wget
 curl
@@ -14,5 +15,8 @@ dig
 tshark
 tcpdump
 xxd
+ufw
 ipcalc
 htop
+pi-hole
+fail2ban
