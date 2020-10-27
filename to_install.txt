@@ -41,6 +41,7 @@ nslookup/dig
 wget
 curl
 ipcalc
+rsync
 virtualenv
 pdflatex
 latex
