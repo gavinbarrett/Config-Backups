@@ -1,0 +1,50 @@
+Here's a list of some of my favorite software
+
+Command Line:
+-------------
+vim
+git
+zsh
+youcompleteme
+tilix
+python
+pip
+xxd
+gcc/g++
+gdb
+valgrind
+gpg
+docker
+node
+npm
+eog
+locate
+evince
+bat
+nc
+netstat
+nmap
+arp-scan
+libreoffice
+convert
+hexdump
+mysql/postgresql
+heroku
+ffmpeg
+youtube-dl
+whereis
+tsc
+neofetch
+
+User Interface:
+---------------
+firefox
+gnome boxes
+inkscape
+steam
+spotify
+gimp
+balena
+postman
+pdflatex
+libreoffice
